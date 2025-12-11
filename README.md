@@ -1,59 +1,73 @@
 <div align="center">
-<img src="https://dummyimage.com/80x80/ffffff/000000&text=L" width="72">
-L U M E Z A
-<strong>Crafted in Wood. Forged in Metal.</strong>
+
+  <img src="./LUMEZA LOGO.png" alt="Lumeza Logo" width="140">
+
+  <h1><strong>L U M E Z A</strong></h1>
+
+  <h3><em>Crafted in Wood. Forged in Metal.</em></h3>
+
+  <br>
+
+  ---
+
+  <h4>
+    A modern craft & lifestyle brand blending Saharanpur’s artisan heritage  
+    with Moradabad’s contemporary manufacturing culture.
+  </h4>
+
+  We create premium woodwork and metalwork that merge handcrafted warmth  
+  with modern design — durable, beautifully finished, and surprisingly accessible.
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wood-Work-8B5A2B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metal-Forge-708090?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Handcrafted-Yes-6aa84f?style=for-the-badge">
+
+  ---
+
+</div>
+
 <br>
-A modern craft & lifestyle brand blending Saharanpur’s artisan heritage with Moradabad’s contemporary manufacturing culture.
 
-We create premium woodwork and metalwork that merge handcrafted warmth with modern design — durable, beautifully finished, and surprisingly accessible.
+## 🌟 About Lumeza
 
-<br>
-
-
-
-
-
-
-
-
-</div> <br>
-🌟 About Lumeza
-
-Lumeza stands at the intersection of heritage and modernity.
-Our craftsmanship draws from Saharanpur’s long woodworking history, while our metalwork evolves through Moradabad’s precision-focused manufacturing ecosystem.
+Lumeza stands at the intersection of **heritage and modernity**.  
+Our craftsmanship draws from Saharanpur’s long woodworking history,  
+while our metalwork evolves through Moradabad’s precision-driven manufacturing culture.
 
 We design and build products that feel:
 
-Warm — carrying the soul of handcrafted detail
+- **Warm** — rooted in handcrafted detail  
+- **Modern** — clean, functional, minimal  
+- **Durable** — built to last  
+- **Accessible** — premium quality without premium pricing  
 
-Modern — clean, functional, contemporary
+From home décor and tableware to furniture and custom builds, every piece carries the Lumeza identity.
 
-Durable — built to last for years
+---
 
-Accessible — premium quality without premium pricing
+## 🛠️ What We Create
 
-From décor and tableware to furniture and custom builds, every piece reflects this balance.
+- Home décor & interior accents  
+- Tableware & kitchenware  
+- Wood & metal lifestyle products  
+- Furniture  
+- Custom builds for retailers, designers & global buyers  
 
-🛠️ What
+---
 
-Home décor & interior accents
+## 🔥 Philosophy
 
-Tableware & kitchenware
+> **Craft with intention.  
+> Design with clarity.  
+> Build for longevity.**
 
-Utility and lifestyle products
+---
 
-Wood & metal furniture
+## 🌍 Mission
 
-Custom builds for retailers, designers, and global buyers
+To elevate Indian craftsmanship globally by delivering premium, thoughtfully designed, handcrafted wood and metal products.
 
-🔥 Our Philosophy
-
-Craft with intention.
-Design with clarity.
-Build for longevity.
-
-We honor tradition while embracing innovation — and we bring both into every product.
-
-🌍 Our Mission
-
-To elevate Indian craftsmanship on the global stage by delivering premium, thoughtfully designed, handcrafted wood and metal products.
+---
