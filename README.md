@@ -64,7 +64,11 @@ We keep things simple, authentic, and long-lasting.
 
 ---
 
-## 🖼️ Visual Assets (Optional)
+## 🌐 Connect With Us
 
-This repository may include product images, catalogs, or brand assets in:
-
+<div>
+  <a href="https://lumeza.onrender.com" target="_blank">🌍 Website</a><br>
+  <a href="https://instagram.com/lumeza_india" target="_blank">📸 Instagram</a><br>
+  <a href="https://wa.me/+917983233092" target="_blank">💬 WhatsApp</a><br>
+  <a href="mailto:mail.lumeza@gmail.com" target="_blank">✉️ Email</a>
+</div>
