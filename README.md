@@ -35,7 +35,7 @@ We create décor, tableware, furniture, and custom-built wooden and metal pieces
 - **Durability** — built to last  
 - **Accessibility** — premium quality without excessive pricing  
 
-Our products serve retail, wholesale, export, interior designers, and global buyers.
+Our products currently serve retail, wholesale, interior designers, and other Indian buyers.
 
 ---
 
