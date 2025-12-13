@@ -2,7 +2,7 @@
 
   <img src="./LUMEZA LOGO.png" alt="Lumeza Logo" width="140">
 
-  <h1><strong>L U M E Z A</strong></h1>
+  <h1><strong>LUMEZA</strong></h1>
 
   <h3><em>Crafted in Wood. Forged in Metal.</em></h3>
 
