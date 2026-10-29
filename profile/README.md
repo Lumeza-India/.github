@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./Lumeza.png" alt="Lumeza Logo" width="540">
+  <img src="./Lumeza.png" alt="Lumeza Logo" width="740">
 
   <h1><strong>LUMEZA</strong></h1>
 
