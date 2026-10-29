@@ -1,74 +1,96 @@
 <div align="center">
 
-  <img src="./Lumeza.png" alt="Lumeza Logo" width="740">
+  <img src="https://raw.githubusercontent.com/Lumeza-India/Lumeza-India/main/profile/Lumeza.png" alt="Lumeza" width="680">
 
-  <h1><strong>LUMEZA</strong></h1>
+  <h1>LUMEZA</h1>
 
   <h3><em>Crafted in Wood. Forged in Metal.</em></h3>
 
   <p>
-    <img alt="Made in India" src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge">
-    <img alt="Handcrafted" src="https://img.shields.io/badge/Handcrafted-Yes-6aa84f?style=for-the-badge">
-    <img alt="Materials" src="https://img.shields.io/badge/Wood_%26_Metal-Premium-9cf?style=for-the-badge">
+    <a href="https://lumeza.in"><strong>EXPLORE LUMEZA</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://instagram.com/lumeza.in">INSTAGRAM</a>
+    &nbsp; · &nbsp;
+    <a href="mailto:contact@lumeza.in">CONTACT</a>
   </p>
 
-  <hr style="height:1px;border:none;background:#ddd; width:60%">
+  <br>
 
-  <p style="max-width:720px; text-align:center; color:#444;">
-    Lumeza blends Saharanpur’s rich artisan heritage with Moradabad’s contemporary manufacturing culture to create premium handcrafted wood and metal products.  
-    Every piece balances traditional craftsmanship with modern design — durable, beautifully finished, and timelessly elegant.
-  </p>
+  ![Made in India](https://img.shields.io/badge/Made%20in-India-BB7848?style=flat-square&labelColor=24211E)
+  ![Craftsmanship](https://img.shields.io/badge/Inspired%20by-Indian%20Craftsmanship-A5A083?style=flat-square&labelColor=24211E)
+  ![Materials](https://img.shields.io/badge/Materials-Wood%20%26%20Metal-C9AE80?style=flat-square&labelColor=24211E)
 
 </div>
 
 ---
 
-## 🌟 About Lumeza
+<div align="center">
 
-Lumeza stands at the intersection of **heritage and modernity**.  
-Our craft draws from generations of woodworking tradition in Saharanpur, combined with the precision and contemporary techniques of Moradabad’s metalworking culture.
+### A HERITAGE OF CRAFT. A VISION FOR MODERN LIVING.
 
-We create décor, tableware, furniture, and custom-built wooden and metal pieces that embody:
+*Timeless materials. Thoughtful design. Everyday purpose.*
 
-- **Warmth** — handcrafted character  
-- **Design clarity** — modern, functional, minimal  
-- **Durability** — built to last  
-- **Accessibility** — premium quality without excessive pricing  
+</div>
 
-Our products currently serve retail, wholesale, interior designers, and other Indian buyers.
+Lumeza brings together the rich artisan heritage of India and a contemporary approach to design, creating products that balance craftsmanship, functionality, and understated elegance.
 
----
+Inspired by Saharanpur's woodworking traditions and Moradabad's metalworking expertise, our vision is to make thoughtfully designed products accessible to modern homes and businesses.
 
-## 🛠️ What We Make
+We believe that the best designs don't need to be complicated. They need to be considered, useful, and made with care.
 
-- Home décor & interior accents  
-- Tableware & kitchenware  
-- Wood & metal furniture  
-- Lifestyle & utility products  
-- Custom builds for businesses, architects, and designers  
+## What We Create
 
-From small home essentials to large furniture projects, each item reflects Lumeza’s commitment to thoughtful design and refined craftsmanship.
+**Home Décor & Living**
 
----
+Objects and accents that bring warmth, character, and intention to interior spaces.
 
-## 🔥 Philosophy
+**Kitchenware & Tableware**
 
-> **Craft with intention.  
-> Design with clarity.  
-> Build for longevity.**
+Everyday essentials designed around functionality, material, and thoughtful detail.
 
-Materials matter.  
-Finishing matters.  
-Craftsmanship matters.  
-We keep things simple, authentic, and long-lasting.
+**Furniture**
+
+Wood and metal furniture that brings practicality and contemporary design together.
+
+**Lifestyle & Utility**
+
+Useful products that combine everyday convenience with distinctive character.
+
+**Custom Creations**
+
+Tailored product solutions for businesses, interior designers, architects, and other collaborators.
 
 ---
 
-## 🌐 Connect With Us
+## Our Principles
 
-<div>
-  <a href="https://lumeza.in" target="_blank">🌍 Website</a><br>
-  <a href="https://instagram.com/lumeza.in" target="_blank">📸 Instagram</a><br>
-  <a href="https://wa.me/+919105744292" target="_blank">💬 WhatsApp</a><br>
-  <a href="mailto:contact@lumeza.in" target="_blank">✉️ Email</a>
+| | |
+|:---|:---|
+| **Craftsmanship** | Respecting the skill, care, and detail behind every piece. |
+| **Thoughtful Design** | Balancing aesthetics with real-world functionality. |
+| **Material Integrity** | Appreciating the character and possibilities of wood and metal. |
+| **Lasting Value** | Prioritising quality, usability, and enduring appeal. |
+
+---
+
+<div align="center">
+
+### CRAFT WITH INTENTION.
+### DESIGN WITH CLARITY.
+### BUILD FOR LONGEVITY.
+
+<br>
+
+Whether you're discovering our collection, exploring wholesale opportunities, or looking to collaborate on a custom project, we'd love to connect.
+
+<br>
+
+**[Explore Our Website →](https://lumeza.in)**
+
+[WhatsApp](https://wa.me/+919105744292) &nbsp; · &nbsp; [Instagram](https://instagram.com/lumeza.in) &nbsp; · &nbsp; [Email](mailto:contact@lumeza.in)
+
+<br>
+
+<sub>Rooted in Indian craftsmanship. Designed for contemporary living.</sub>
+
 </div>
