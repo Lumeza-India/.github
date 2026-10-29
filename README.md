@@ -67,8 +67,8 @@ We keep things simple, authentic, and long-lasting.
 ## 🌐 Connect With Us
 
 <div>
-  <a href="https://lumeza.onrender.com" target="_blank">🌍 Website</a><br>
-  <a href="https://instagram.com/lumeza_india" target="_blank">📸 Instagram</a><br>
-  <a href="https://wa.me/+917983233092" target="_blank">💬 WhatsApp</a><br>
-  <a href="mailto:mail.lumeza@gmail.com" target="_blank">✉️ Email</a>
+  <a href="https://lumeza.in" target="_blank">🌍 Website</a><br>
+  <a href="https://instagram.com/lumeza.in" target="_blank">📸 Instagram</a><br>
+  <a href="https://wa.me/+919105744292" target="_blank">💬 WhatsApp</a><br>
+  <a href="mailto:contact@lumeza.in" target="_blank">✉️ Email</a>
 </div>
