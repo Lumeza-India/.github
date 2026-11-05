@@ -1,7 +1,8 @@
 <div align="center">
 
+<a href="https://lumeza.in" target="_blank">
   <img src="https://raw.githubusercontent.com/Lumeza-India/Lumeza-India/main/profile/Lumeza.png" alt="Lumeza" width="680">
-
+</a>
   <h1>LUMEZA</h1>
 
   <h3><em>Crafted in Wood. Forged in Metal.</em></h3>
